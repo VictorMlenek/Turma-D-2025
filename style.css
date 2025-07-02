@@ -15,7 +15,8 @@ p {
 
 header {
     border: inset 6px rgb(82, 50, 29);
-    padding: 5px font-size: 15px;
+    padding: 5px; 
+    font-size: 15px;
     color: rgb(145, 48, 0);
 
 }
