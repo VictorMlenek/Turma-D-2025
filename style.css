@@ -1,19 +1,28 @@
-body{
-    background-color: rgb(255, 180, 82);
-    color:black;
+body {
+    background-color: rgb(255, 151, 82);
+    color: black;
     font-family: "Zen Dots", sans-serif;
     margin: 0px;
 }
+
 h1 {
     font-size: 40px;
 }
-p{
+
+p {
     font-size: 20px;
 }
-header{
-    border: inset 6px rgb(255, 102, 0);
-    padding: 5px
-    font-size: 15px;
+
+header {
+    border: inset 6px rgb(82, 50, 29);
+    padding: 5px font-size: 15px;
     color: rgb(145, 48, 0);
 
+}
+section{
+    background: rgb(255, 150, 80);
+    padding-bottom:80px;
+    padding-top:80px;
+    display: flex;
+    justify-content: center;
 }
